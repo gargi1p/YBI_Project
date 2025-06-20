@@ -41,7 +41,6 @@ The dataset includes **1000 student records** with the following features:
 ![YBI2](https://github.com/user-attachments/assets/6d910e8c-9872-4bed-af05-9bf82f0b568e)
 
 
-> 📎 *(Replace image paths with actual screenshots of your model outputs from Colab)*
 
 ---
 
